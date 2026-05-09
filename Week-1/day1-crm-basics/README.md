@@ -150,28 +150,29 @@ The student successfully completes admission and becomes an official student of 
 
 ## CRM Module
 
-![CRM Module](CRM Module.png)
+![CRM Module](crmModule.png)
 
 ---
 
 ## Platform Basics
 
-![Platform Basics](Platform Basics.png)
+![Platform Basics](platformBasics.png)
 
 ---
 
 ## Salesforce Playground
 
-![Salesforce Playground](Salesforce Playground.png)
+![Salesforce Playground](salesforcePlayground.png)
 
 ---
 
 ## Salesforce Developer
 
-![Salesforce Developer](Salesforce Developer.png)
+![Salesforce Developer](salesforceDeveloper.png)
 
 ---
 
 ## Trailhead Module
 
-![Trailhead Module](Trailhead Module.png)
+![Trailhead Module](trailheadModule.png)
+
