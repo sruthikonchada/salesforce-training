@@ -144,13 +144,9 @@ The student admission process is tracked, including application review and fee p
 The student successfully completes admission and becomes an official student of the college.
 ---
 
-# Trailhead Screenshots
-
-## Trailhead Module
-
-![Trailhead Module](trailhead-module.png)
-
 ---
+
+# Trailhead Screenshots
 
 ## CRM Module
 
@@ -173,3 +169,9 @@ The student successfully completes admission and becomes an official student of 
 ## Salesforce Developer
 
 ![Salesforce Developer](Salesforce Developer.png)
+
+---
+
+## Trailhead Module
+
+![Trailhead Module](trailhead-module.png)
