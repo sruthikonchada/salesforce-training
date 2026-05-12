@@ -175,4 +175,3 @@ The student successfully completes admission and becomes an official student of 
 ## Trailhead Module
 
 ![Trailhead Module](trailheadModule.png)
-
