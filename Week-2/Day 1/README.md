@@ -25,13 +25,12 @@ Lightning Web Components (LWC) is Salesforce's modern UI framework for building 
 ## UI Screens
 
 ### VS Code Project Structure
-![VS Code Project Structure](salesforcePlayground.png)
+![VS Code Project Structure](bikeCard.png)
 
 ### BikeCard Component
-*Add Screenshot Here*
+![BikeCard Component](bikecard_component.png)
 
-### Salesforce Preview
-*Add Screenshot Here*
+
 
 ---
 
