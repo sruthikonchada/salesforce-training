@@ -1,4 +1,4 @@
-# Day 9 - LWC Communication
+# LWC Communication
 
 ## Component Communication
 
